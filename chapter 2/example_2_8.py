@@ -14,7 +14,7 @@ for name, cc, pop, (latitude, longitude) in metro_areas:
         print(fmt.format(name, latitude, longitude))
 
 # === result ===
-#                 |   lat.    |   long.  
+#                 |   lat.    |   long.
 # Mexico City     |   19.4333 |  -99.1333
 # New York-Newark |   40.8086 |  -74.0204
 # São Paulo       |  -23.5478 |  -46.6358
